@@ -1,2 +1,2 @@
 # LEGENDSCORPORATIONS.github.io
-pagina web
+ pagina web
